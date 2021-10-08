@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm")
+    `java-modular-project`
 }
 
 group = "com.wilfred"
