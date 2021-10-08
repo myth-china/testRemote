@@ -1,0 +1,9 @@
+modules:
+  - name: testRemoteA
+    path: ./testRemote/testRemoteA
+    group: com.wilfred.testremote
+    artifact: testRemoteA
+    version: 1.0.0-SNAPSHOT
+    sourceDebug: true
+    gitUrl: https://github.com/myth-china/testRemote.git
+    gitBranch: master
